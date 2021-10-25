@@ -1,0 +1,6 @@
+{
+  "verbose": true,
+  "watch": ["src"],
+  "ignore": ["sessions/","src/data/*.db.json"],
+  "exec": "babel-node src/server.js"
+}
